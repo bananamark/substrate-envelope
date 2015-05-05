@@ -15,7 +15,9 @@ You can visualize the envelope.pdb as a surface by using these commands within p
     alter (name H), vdw=0.1
     rebuild
 
-which gives a crisp, tight surface representation (see image).
+which gives a crisp, tight surface representation, like so ...
+
+![Example Output](https://raw.githubusercontent.com/sshandilya/substrate-envelope/master/example.png "Example Output")
 
 Enjoy!
 
