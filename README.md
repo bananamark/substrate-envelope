@@ -19,6 +19,10 @@ which gives a crisp, tight surface representation, like so ...
 
 ![Example Output](https://raw.githubusercontent.com/sshandilya/substrate-envelope/master/example.png "Example Output")
 
+and can be used to make a figure like this one
+
+![Example Envelope Figure](https://cloud.githubusercontent.com/assets/2875276/7483045/a09eabb0-f330-11e4-8570-8234c6d1340f.png "Example Envelope Figure")
+
 Enjoy!
 
 Markus
