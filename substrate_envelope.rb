@@ -98,8 +98,7 @@ puts "    Object name in pymol script:".blue + " #{ARGV[1]}".magenta
 puts "    Pymol script:".blue + " #{ARGV[2]}.pml".magenta
 puts "    Coordinate file:".blue + " #{ARGV[2]}.pdb\n".magenta
 
-#rm = 1.3  # Rmin for N-O interaction
-rm = 1.5
+rm = 1.5 # vdW radius for N/O
 
 ecut = 0.1 # Energy cutoff
 
